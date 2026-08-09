@@ -21,7 +21,7 @@ Developed a basic understanding of handling and organizing data for real-world u
 ## Project Progress
 Started exploring suitable project ideas and datasets based on real-world use cases. Focused on understanding how data is collected, organized, and stored for use in the selected project.
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Day 2 – Python Fundamentals & Project Exploration
 
