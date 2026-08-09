@@ -3,17 +3,13 @@
 **Date:** *7 July 2026*
 
 ## Objectives
-
 To understand the importance of Feature Engineering and learn techniques for transforming existing data into meaningful features suitable for further analysis and model development.
 
 ## Session Overview
-
 The session focused on **Feature Engineering** as an important part of data preparation. We learned how existing features can be modified or combined to improve data representation and help models identify useful patterns.
-
 The major techniques covered included **Feature Creation, Transformation, Scaling, Encoding, Binning, Feature Extraction, and Feature Combination**. We also discussed methods such as standardization, normalization, and converting categorical values into numerical form.
 
 ## Key Takeaways
-
 - Understood the role of Feature Engineering in data preparation.
 - Learned how to create and transform meaningful features.
 - Explored numerical feature scaling and categorical encoding.
@@ -21,31 +17,25 @@ The major techniques covered included **Feature Creation, Transformation, Scalin
 - Learned how well-designed features can improve data representation and model performance.
 
 ## Learning & Implementation
-
 Practiced different Feature Engineering techniques using **Python and Pandas**. Worked with numerical and categorical features, explored feature transformations and scaling methods, and created derived features to make the dataset more informative for future model development.
 
 ## Project Progress
-
 Applied Feature Engineering concepts to the project dataset by exploring existing features and identifying opportunities to create more meaningful ones. Practiced feature transformation, scaling, encoding, and feature creation to improve the dataset's representation for upcoming model development.
 
------------------------------------------------------------------------------------------------------------------------------------------------
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Day 7 – Principal Component Analysis (PCA)
 
 **Date:** *8 July 2026*
 
 ## Objectives
-
 To understand dimensionality reduction and learn how PCA can reduce the number of features while preserving important information in a dataset.
 
 ## Session Overview
-
 The session introduced **Principal Component Analysis (PCA)** as a dimensionality reduction technique for handling high-dimensional data. We learned how PCA transforms existing features into new **Principal Components** based on the variance present in the data.
-
 The session also covered **feature scaling, explained variance ratio, principal components, and PCA visualization**. We discussed how reducing unnecessary dimensions can simplify data analysis and improve computational efficiency.
 
 ## Key Takeaways
-
 - Understood the need for dimensionality reduction.
 - Learned how PCA creates new principal components.
 - Understood the role of variance and explained variance ratio.
@@ -53,30 +43,25 @@ The session also covered **feature scaling, explained variance ratio, principal 
 - Explored visualization of reduced-dimensional data.
 
 ## Learning & Implementation
-
 Practiced the PCA workflow on sample data, including feature scaling, dimensionality reduction, and visualization of principal components.
 
 ## Project Progress
-
 Explored PCA in the context of the project dataset and identified how dimensionality reduction could be useful when dealing with multiple related features. Practiced the basic PCA workflow to understand its possible application in the project.
----------------------------------------------------------------------------------------------------------------------------
+
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Day 8 – Handling Class Imbalance
 
 **Date:** *9 July 2026*
 
 ## Objectives
-
 To understand class imbalance, its effect on model predictions, and different techniques used to create a more balanced dataset.
 
 ## Session Overview
-
 The session focused on **Class Imbalance**, where one target class has significantly more observations than another. We learned how imbalance can lead to biased model predictions, particularly toward the majority class.
-
 The session covered **target distribution analysis, encoding, stratified train-test splitting, oversampling, undersampling, SMOTE, Tomek Links, ADASYN, and combined resampling techniques**.
 
 ## Key Takeaways
-
 - Understood the problem and impact of class imbalance.
 - Learned how to identify and visualize class distributions.
 - Understood the purpose of stratified data splitting.
@@ -84,30 +69,25 @@ The session covered **target distribution analysis, encoding, stratified train-t
 - Learned different approaches such as SMOTE, ADASYN, and Tomek Links.
 
 ## Learning & Implementation
-
 Practiced different class-balancing techniques on sample datasets and compared how resampling methods change the distribution of minority and majority classes.
 
 ## Project Progress
-
 Analyzed the target-class distribution of the project dataset to understand the presence of class imbalance. Explored suitable balancing techniques that can be considered before model training.
----------------------------------------------------------------------------------------------------------------------------
+
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Day 9 – Pattern Detection & Advanced Data Analysis
 
 **Date:** *10 July 2026*
 
 ## Objectives
-
 To learn techniques for identifying patterns, relationships, clusters, and unusual observations within datasets.
 
 ## Session Overview
-
 The session introduced advanced approaches for **pattern and anomaly detection**. We used grouped analysis and scatter plots to identify relationships and trends, along with statistical techniques such as **Z-score and IQR** for detecting unusual observations.
-
 We also explored **Pivot Tables** for summarizing data and **K-Means Clustering** for grouping similar observations. The session concluded with **Isolation Forest** as a machine learning approach for anomaly detection.
 
 ## Key Takeaways
-
 - Learned different approaches for identifying patterns in data.
 - Practiced statistical anomaly detection using Z-score and IQR.
 - Understood Pivot Tables for summarized analysis.
@@ -115,30 +95,25 @@ We also explored **Pivot Tables** for summarizing data and **K-Means Clustering*
 - Learned the basic concept of Isolation Forest.
 
 ## Learning & Implementation
-
 Practiced pattern analysis, clustering, and anomaly detection techniques on datasets to understand how statistical and machine learning methods can reveal hidden patterns and unusual observations.
 
 ## Project Progress
-
 Explored patterns and potential anomalies within the project dataset using statistical analysis and visualization. The session helped identify additional techniques that can be used to improve data understanding and preprocessing.
----------------------------------------------------------------------------------------------------------------------------
+
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Day 9 – Pattern Detection & Advanced Data Analysis
 
 **Date:** *10 July 2026*
 
 ## Objectives
-
 To learn techniques for identifying patterns, relationships, clusters, and unusual observations within datasets.
 
 ## Session Overview
-
 The session introduced advanced approaches for **pattern and anomaly detection**. We used grouped analysis and scatter plots to identify relationships and trends, along with statistical techniques such as **Z-score and IQR** for detecting unusual observations.
-
 We also explored **Pivot Tables** for summarizing data and **K-Means Clustering** for grouping similar observations. The session concluded with **Isolation Forest** as a machine learning approach for anomaly detection.
 
 ## Key Takeaways
-
 - Learned different approaches for identifying patterns in data.
 - Practiced statistical anomaly detection using Z-score and IQR.
 - Understood Pivot Tables for summarized analysis.
@@ -146,30 +121,25 @@ We also explored **Pivot Tables** for summarizing data and **K-Means Clustering*
 - Learned the basic concept of Isolation Forest.
 
 ## Learning & Implementation
-
 Practiced pattern analysis, clustering, and anomaly detection techniques on datasets to understand how statistical and machine learning methods can reveal hidden patterns and unusual observations.
 
 ## Project Progress
-
 Explored patterns and potential anomalies within the project dataset using statistical analysis and visualization. The session helped identify additional techniques that can be used to improve data understanding and preprocessing.
------------------------------------------------------------------------------------------------------------------------------------------
+
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Day 10 – Automated Data Profiling & EDA Tools
 
 **Date:** *13 July 2026*
 
 ## Objectives
-
 To explore automated EDA and data profiling tools that provide quick and detailed insights into dataset structure, quality, distributions, and relationships.
 
 ## Session Overview
-
 The session focused on automating parts of **Exploratory Data Analysis** using Python-based tools. We explored **YData Profiling** for generating detailed reports containing statistics, missing values, distributions, correlations, and duplicate information.
-
 We also learned about **Sweetviz** for interactive visualization and dataset comparison, along with **D-Tale** for browser-based exploration, filtering, sorting, and analysis of datasets.
 
 ## Key Takeaways
-
 - Understood the purpose of automated EDA tools.
 - Learned how YData Profiling generates comprehensive reports.
 - Explored Sweetviz for visualization and dataset comparison.
@@ -177,22 +147,17 @@ We also learned about **Sweetviz** for interactive visualization and dataset com
 - Understood how automated tools can make dataset analysis faster.
 
 ## Learning & Implementation
-
 Created and explored automated profiling reports using different EDA tools. Compared their capabilities for understanding dataset quality, feature distributions, correlations, and relationships.
 
 ## Project Progress
-
 Applied automated EDA tools to the project dataset to obtain a broader view of its structure and quality. Generated profiling and visualization reports to identify useful patterns and areas requiring further analysis.
 
-
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Week 2 – Learning & Project Progress
 
 ## Learning Summary
-
 Week 2 focused on advanced **data analysis and preprocessing techniques**, including PCA, class imbalance handling, pattern detection, clustering, anomaly detection, and automated EDA. The sessions combined theoretical concepts with practical implementation using Python-based tools.
 
 ## Project Progress
-
 This week, the project dataset was further analyzed using advanced techniques for **dimensionality reduction, class distribution, pattern identification, anomaly detection, and automated profiling**. These activities provided deeper insights into the dataset and prepared it for the upcoming model development stage.
-----------------------------------------------------------------------------------------------------------------------------------------
