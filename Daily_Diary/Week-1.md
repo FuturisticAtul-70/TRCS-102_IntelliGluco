@@ -21,7 +21,7 @@ Developed a basic understanding of handling and organizing data for real-world u
 ## Project Progress
 Started exploring suitable project ideas and datasets based on real-world use cases. Focused on understanding how data is collected, organized, and stored for use in the selected project.
 
-**-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Day 2 – Python Fundamentals & Project Exploration
 
@@ -47,7 +47,7 @@ Practiced Python through basic programming questions and applied different data 
 ## Project Progress
 Started evaluating potential project ideas based on their practical relevance, scope, and availability of suitable data. The project idea was discussed and considered for development during the training.
 
-**-----------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Day 3 – Data Cleaning, Preprocessing & Dataset Analysis
 
@@ -80,7 +80,7 @@ The concepts were implemented using **Python, Pandas, and Jupyter Notebook**. I 
 
 Applied data cleaning and preprocessing concepts to the project dataset using Python and Pandas. Inspected the dataset, analyzed missing and duplicate values, performed basic cleaning, and explored outlier detection to prepare the data for further analysis.
 
-**-----------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Day 4 – Exploratory Data Analysis & Feature Engineering
 
@@ -107,7 +107,7 @@ Applied the EDA workflow to the **diabetes project dataset** using Python and Pa
 ## Project Progress
 Performed Exploratory Data Analysis on the project dataset using Python and Pandas. Analyzed feature distributions, grouped data, correlations, and specific subsets while also creating meaningful features through basic feature engineering.
 
-**-----------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Day 5 – Data Visualization with Matplotlib & Seaborn
 
@@ -134,7 +134,7 @@ Practiced different visualization techniques using **Python, Matplotlib, and Sea
 ## Project Progress
 Applied data visualization techniques to the project dataset using Matplotlib and Seaborn. Created visualizations to understand feature distributions, categorical patterns, relationships, correlations, and potential outliers.
 
-**-----------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # Week 1 – Conclusion
 
