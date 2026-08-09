@@ -1,1 +1,19 @@
+# Training Outcomes
+The four-week training provided a structured understanding of the **Data Science and Machine Learning workflow**, starting from data handling and Python fundamentals and progressing through data cleaning, preprocessing, EDA, visualization, feature engineering, dimensionality reduction, class imbalance handling, pattern detection, supervised learning, model development, feature selection, and hyperparameter optimization. The training combined theoretical concepts with practical implementation, helping me understand how different techniques are applied at different stages of a Machine Learning project.
+Throughout the training, I also applied the learned concepts to my **IntelliGluco** project, evaluated different approaches, reviewed model performance, and discussed improvements with the trainer and professor. This helped strengthen my practical understanding of Machine Learning and improved my ability to analyze datasets, select suitable techniques, develop predictive models, evaluate results, and refine a project systematically.
 
+## Key Training Outcomes
+- Developed a strong foundation in **Python, Pandas, NumPy, and data handling**.
+- Learned to **clean, preprocess, inspect, and prepare datasets** for analysis.
+- Gained practical experience in **Exploratory Data Analysis (EDA)** and statistical analysis.
+- Learned to use **Matplotlib and Seaborn** for effective data visualization.
+- Understood and applied **Feature Engineering and Feature Selection** techniques.
+- Learned **PCA and dimensionality reduction** for handling high-dimensional data.
+- Understood techniques for handling **class imbalance and anomalies** in datasets.
+- Explored **supervised learning and classification algorithms** including Logistic Regression, Naive Bayes, KNN, SVM, Decision Tree, and Random Forest.
+- Learned **regression and regularization techniques**, including Linear, Ridge, and Lasso Regression.
+- Gained an understanding of **model evaluation, comparison, and feature importance**.
+- Learned **hyperparameter optimization** using Grid Search CV and Randomized Search CV.
+- Developed the ability to **evaluate and refine a Machine Learning project** using concepts learned during training.
+- Applied the acquired knowledge to the development and improvement of **IntelliGluco**, connecting theoretical learning with practical project work.
+- Improved confidence in **technical problem-solving, project evaluation, implementation, and explaining Machine Learning workflows**.
